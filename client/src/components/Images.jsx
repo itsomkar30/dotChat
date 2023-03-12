@@ -56,7 +56,7 @@ const Images = () => {
       <div className="bg-[#171f3c] p-5  flex-1 overflow-hidden overflow-y-auto items-between rounded-md my-2 h-[77vh] mb-4">
       {images.length === 0  && (
             <div className="h-full flex justify-center items-center">
-              <h1>hello</h1>
+              <h1>&#x1f50e; Search Images</h1>
             </div>
         )}
 
